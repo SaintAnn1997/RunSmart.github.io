@@ -1,0 +1,12 @@
+body,
+html {
+    font-family: 'MuseoSans', sans-serif;
+	color: $main-color;
+	height: 100%;
+}
+
+.container {
+	max-width: 950px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
